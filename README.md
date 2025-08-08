@@ -4,7 +4,7 @@
 I’m passionate about creating full-stack applications, exploring new technologies, and building meaningful projects.  
 I have strong knowledge of **Machine Learning** and **Data Science**, and I’m highly skilled in **coding** and **data structures & algorithms**.  
 Currently focusing on **Backend Development, Flutter, and React**.
-
+A pro prompt developer!
 
 ---
 
