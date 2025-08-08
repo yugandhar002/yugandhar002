@@ -2,14 +2,12 @@
 <table>
 <tr>
 <td width="40%" align="center">
-  <!-- Animated Profile Image as GIF -->
-  <img src="https://raw.githubusercontent.com/yugandhar002/yugandhar002/main/code_hacking.gif" 
+  <img src="https://github.com/yugandhar002/yugandhar002/blob/main/Code%20Hacking%20GIF%20by%20Pizza%20Ninjas.gif" 
        alt="Yugandhar - Developer" 
        width="100%" 
        style="border-radius:20px;">
 </td>
 <td width="60%">
-
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF7F&center=false&vCenter=true&width=600&lines=Hi%2C+I'm+Yugandhar;Full+Stack+Developer;Android+%26+Web+Developer;Machine+Learning+Enthusiast" alt="Typing Animation"/>
 
