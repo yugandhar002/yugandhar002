@@ -1,18 +1,19 @@
+<!-- Profile Layout -->
 <table>
 <tr>
 <td width="40%" align="center">
-  <img src="https://github.com/yugandhar002/yugandhar002/blob/main/Code%20Hacking%20GIF%20by%20Pizza%20Ninjas.gif" 
+  <!-- Animated Profile Image as GIF -->
+  <img src="https://raw.githubusercontent.com/yugandhar002/yugandhar002/main/code_hacking.gif" 
        alt="Yugandhar - Developer" 
        width="100%" 
        style="border-radius:20px;">
 </td>
 <td width="60%">
 
-# Hi, I'm Yugandhar 👋
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF7F&center=false&vCenter=true&width=600&lines=Hi%2C+I'm+Yugandhar;Full+Stack+Developer;Android+%26+Web+Developer;Machine+Learning+Enthusiast" alt="Typing Animation"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F75C7E&width=500&lines=Software+Engineer;Android+%26+Web+Developer;Machine+Learning+Enthusiast;Full+Stack+Developer;Pro+Prompt+Engineer)](https://git.io/typing-svg)
-
-💻 Software Engineer | 📱 Android & Web Developer | 🤖 Machine Learning & Data Science Enthusiast  
+### 💻 Software Engineer | 📱 Android & Web Developer | 🤖 Machine Learning & Data Science Enthusiast
 
 I’m passionate about creating **full-stack applications**, exploring new technologies, and building meaningful projects.  
 I have strong knowledge of **Machine Learning**, **Data Science**, and I’m highly skilled in **coding** and **data structures & algorithms**.  
@@ -21,6 +22,7 @@ Currently focusing on **Backend Development, Flutter, and React**.
 </td>
 </tr>
 </table>
+
 
 
 ---
