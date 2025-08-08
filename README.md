@@ -5,23 +5,21 @@
 </td>
 <td width="60%">
 
-# Hi, I'm Yugandhar 👋
+# Hi, I'm Yugandhar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
-💻 Software Engineer | 📱 Android & Web Developer | 🌏 Based in India  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F75C7E&width=500&lines=Software+Engineer;Android+%26+Web+Developer;Machine+Learning+Enthusiast;Full+Stack+Developer;Pro+Prompt+Engineer)](https://git.io/typing-svg)
+
 I’m passionate about creating full-stack applications, exploring new technologies, and building meaningful projects.  
 I have strong knowledge of **Machine Learning** and **Data Science**, and I’m highly skilled in **coding** and **data structures & algorithms**.  
 Currently focusing on **Backend Development, Flutter, and React**.  
-A pro prompt developer!
 
 </td>
 </tr>
 </table>
 
-
 ---
 
 ## 🛠 Tech Stack
-
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
@@ -54,8 +52,7 @@ A pro prompt developer!
 ---
 
 ## 📊 GitHub Stats
-![Yugandhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=yugandhar002&show_icons=true&theme=radical)
-
+![Yugandhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=yugandhar002&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yugandhar002&layout=compact&theme=radical)
 
 ---
