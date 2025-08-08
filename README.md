@@ -1,9 +1,13 @@
+<p align="center">
+  <img src="https://github.com/yugandhar002/yugandhar002/blob/main/ChatGPT%20Image%20Aug%208%2C%202025%2C%2001_27_04%20PM.png" alt="Yugandhar - Developer" width="800"/>
+</p>
+
 # Hi, I'm Yugandhar 👋
 
 💻 Software Engineer | 📱 Android & Web Developer | 🌏 Based in India  
 I’m passionate about creating full-stack applications, exploring new technologies, and building meaningful projects.  
 I have strong knowledge of **Machine Learning** and **Data Science**, and I’m highly skilled in **coding** and **data structures & algorithms**.  
-Currently focusing on **Backend Development, Flutter, and React**.
+Currently focusing on **Backend Development, Flutter, and React**.  
 A pro prompt developer!
 
 ---
