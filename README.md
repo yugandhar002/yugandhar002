@@ -5,7 +5,7 @@
 </td>
 <td width="60%">
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&width=500&lines=Hi%2C+I'm+Yugandhar)](https://git.io/typing-svg)
+# Hi, I'm Yugandhar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=F75C7E&width=500&lines=Software+Engineer;Android+%26+Web+Developer;Machine+Learning+Enthusiast;Full+Stack+Developer;Pro+Prompt+Engineer)](https://git.io/typing-svg)
 
